@@ -10,11 +10,11 @@ To make a new blueprint based off of the component, do the following:
 
 1. In the editor, right click in the Content Browser and select "Create Advanced Asset > Blueprint > Blueprint Class"
 
-![Create Advanced Asset, Blueprint, Blueprint Class](UnrealEditor-Win64-DebugGame_U47hH8C1Ou.png?raw=true)
+![Create Advanced Asset, Blueprint, Blueprint Class](images/UnrealEditor-Win64-DebugGame_U47hH8C1Ou.png?raw=true)
 
 2. When the class picker comes up, select "Procedural Spline Mesh Component"
 
-![Select class for blueprint](UnrealEditor-Win64-DebugGame_Sd3UtAvFaE.png?raw=true)
+![Select class for blueprint](images/UnrealEditor-Win64-DebugGame_Sd3UtAvFaE.png?raw=true)
 
 Next, you're going to want to add this component to an actor. You will want to add this component to an actor that has a **Procedural Mesh Component** and a **Spline Component**. To make it more clear, this is what we're trying to accomplish:
 
